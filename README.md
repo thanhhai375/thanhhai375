@@ -42,7 +42,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thanhhai375&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="thanhhhai375" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=thanhhai375&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="thanhhhai375" width="100%"/>
       <img src="https://streak-stats.demolab.com?user=thanhhai375&theme=radical&hide_border=true" alt="thanhhai375" width="100%"/>
     </td>
     <td>
