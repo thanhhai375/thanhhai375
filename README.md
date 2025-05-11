@@ -43,7 +43,7 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=thanhhai375&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="thanhhhai375" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="thanhhai375" width="100%"/>
+      <img src="https://streak-stats.demolab.com?user=thanhhai375&theme=radical&hide_border=true" alt="thanhhai375" width="100%"/>
     </td>
     <td>
       <p align="center"> 
