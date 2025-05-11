@@ -57,6 +57,5 @@
 
 
 
-[![Readme Card](https://github.com/thanhhai375/JavaSwing_QuanLyThiSinh)](https://github.com/anuraghazra/github-readme-stats)
 
 
