@@ -56,4 +56,4 @@
 </table>
 
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=github-JavaSwing_QuanLyThiSinh)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-JavaSwing_QuanLyThiSinh)](https://github.com/thanhhai375/JavaSwing_QuanLyThiSinh)
