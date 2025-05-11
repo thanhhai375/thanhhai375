@@ -29,7 +29,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://icons8.com/icon/2GRTwFZR2Tqj/external-eclipse-an-integrated-development-environment-used-in-computer-programming-logo-color-tal-revivo"/>
+  <img src="https://github.com/user-attachments/assets/9e1ee551-f22e-4c56-88de-dae854dfa7d1"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
