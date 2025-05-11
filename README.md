@@ -29,7 +29,7 @@
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://github.com/user-attachments/assets/3ebc07ca-bf9a-4bcd-92ea-87bc370566e1/>
+  <img src="<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
