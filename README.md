@@ -28,10 +28,6 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thanhhai375&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="thanhhhai375" width="100%"/>
-      <img src="https://streak-stats.demolab.com?user=thanhhai375&theme=tokyonight&hide_border=true" alt="thanhhai375" width="100%"/>
-    </td>
-    <td>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
