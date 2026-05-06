@@ -35,6 +35,3 @@
   </tr>
 </table>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhhai375&repo=JavaSwing_QuanLyThiSinh)](https://github.com/thanhhai375/JavaSwing_QuanLyThiSinh)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thanhhai375&repo=ThietKeMangChoToaNha3TangDonGian)](https://github.com/thanhhai375/ThietKeMangChoToaNha3TangDonGian)
